@@ -1,0 +1,6 @@
+framework module MKTestViewPod {
+  umbrella header "MKTestViewPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

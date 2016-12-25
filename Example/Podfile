@@ -4,7 +4,7 @@ target 'MKTestViewPod_Example' do
   pod 'MKTestViewPod', :path => '../'
 
   target 'MKTestViewPod_Tests' do
-    inherit! :search_paths
+	pod 'MKTestViewPod', :path => '../'
 
     pod 'FBSnapshotTestCase'
   end

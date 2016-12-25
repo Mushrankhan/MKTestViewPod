@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import MKTestViewPod
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let mkObj = mktestClass.init()
+        
     }
 
     override func didReceiveMemoryWarning() {
