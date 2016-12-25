@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MKTestViewPod
 
 [![CI Status](http://img.shields.io/travis/umang9/MKTestViewPod.svg?style=flat)](https://travis-ci.org/umang9/MKTestViewPod)
@@ -27,3 +28,6 @@ umang9, iosdev@praxinfo.com
 ## License
 
 MKTestViewPod is available under the MIT license. See the LICENSE file for more info.
+=======
+# MKTestViewPod
+>>>>>>> 83203b4021821a2ebab4c9fc6d134996ea215c63
